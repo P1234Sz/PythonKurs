@@ -21,7 +21,7 @@ bmi_komentarz(bmi)
 
 
 
-#Test
+# Test
 print("\nTest dla masy 70kg i 1.7m wzrostu:")
 
 if bmi_wylicz(70, 1.7) != 24.22:

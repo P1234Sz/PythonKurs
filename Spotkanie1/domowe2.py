@@ -13,7 +13,7 @@ def Ile_wyjac (Kwota, Nominaly):
 
 Ile_wyjac(Kwota, Nominaly)
 
-#Test
+# Test
 print("\nTest dla kwoty 123: \n6 x 20 \n1 x 2 \n1 x 1")
 print("wynik: ")
 Ile_wyjac(123, Nominaly)
